@@ -1,6 +1,6 @@
 # This project is delpoyed on 
 
-https://e-commerce-murex-psi.vercel.app/
+https://shopmestore.vercel.app/
 
 ## Sanity studio is deployed on 
 
