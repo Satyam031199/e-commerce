@@ -14,7 +14,7 @@ const Providers = ({ children }: { children: ReactNode }) => {
       currency="INR"
       billingAddressCollection={true}
       shouldPersist={true}
-      language="en-US"
+      language="en-IN"
     >
       {children}
     </CartProvider>
